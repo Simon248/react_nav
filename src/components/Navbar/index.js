@@ -23,10 +23,10 @@ const Navbar = () => {
           </NavLink>
           <DropDown>
             page2
-            <NavLink to='/page2.1' className={((nav) => (nav.isActive ? "nav-active" : ""))}>
+            <NavLink to='/page2_1' className={((nav) => (nav.isActive ? "nav-active" : ""))}>
               page2.1
             </NavLink>
-            <NavLink to='/page2.2' className={((nav) => (nav.isActive ? "nav-active" : ""))}>
+            <NavLink to='/page2_2' className={((nav) => (nav.isActive ? "nav-active" : ""))}>
               page2.2
             </NavLink>
           </DropDown>

@@ -1,6 +1,6 @@
 import React from 'react';
 
-const page2_1 = () => {
+const Page2_1 = () => {
   return (
     <div
       style={{
@@ -15,4 +15,4 @@ const page2_1 = () => {
   );
 };
 
-export default page2_1;
+export default Page2_1;
